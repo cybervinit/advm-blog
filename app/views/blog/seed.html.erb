@@ -1,0 +1,10 @@
+<h4>This is the seeding section</h4>
+
+<% 33.times do |num| %>
+	<% if (!@data_hash['blogs']['blog'+num.to_s()].blank? and !@data_hash['blogs']['blog'+num.to_s()]['blogAuthor'].blank?) %>
+	<%= num %>. AUTHOR: <%= @data_hash['blogs']['blog'+num.to_s()]['blogAuthor']%><br>
+	TITLE: <%= @data_hash['blogs']['blog'+num.to_s()]['blogTitle']%><br>
+	CONTENT: <%= @data_hash['blogs']['blog'+num.to_s()]['blogString']%><br><br>
+	<! <% add_post(@data_hash['blogs']['blog'+num.to_s()]['blogAuthor'], @data_hash['blogs']['blog'+num.to_s()]['blogTitle'], @data_hash['blogs']['blog'+num.to_s()]['blogString'], num) %> <!>
+	<% end %>
+<% end %>

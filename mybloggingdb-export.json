@@ -1,0 +1,310 @@
+{
+  "blogAmount" : 33,
+  "blogs" : {
+    "blog1" : {
+      "blogAuthor" : "Dharmik",
+      "blogDate" : "20-12-2016",
+      "blogString" : "Today is the day after all my exams have finished, and totally being honest with you, there is almost no way to free up time right now. It's totally cold outside, there's nothing to do inside as people are still writing their exams. As such, I am taking my time in the break to learn a thing or two about the foundations of web design, and how it impacts our lives.",
+      "blogTitle" : "First Semester Finished"
+    },
+    "blog10" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 0,
+      "blogDate" : "20-02-2017",
+      "blogString" : "At 11:50 PM, on this day, our blogging website was complete. It all started from an idea...",
+      "blogTitle" : "Midnight Mayhem"
+    },
+    "blog11" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 6,
+      "blogDate" : "21-02-2017",
+      "blogString" : "The website is coming along real nice. Added bootstrap, soon to add responsiveness, I'm so glad we took up this project!",
+      "blogTitle" : "Morning Madness",
+      "comments" : {
+        "comment1" : "Does the comments section work?",
+        "comment2" : "",
+        "comment3" : "",
+        "comment4" : "Yes it does.",
+        "comment5" : "YAY!",
+        "comment6" : "Well how bau dah"
+      }
+    },
+    "blog12" : {
+      "blogAuthor" : "Mirza",
+      "blogCommentAmount" : 5,
+      "blogDate" : "21-February-2017",
+      "blogString" : "First of all I just want to say that this website looks absolutely gorgeous. It's not just looks either, it has amazing functionality and feels amazing using it. Vinit and Dharmik have outdone themselves pouring their heart and soul into this project. I immensely underestimated their knowledge of computer science and I am so proud that they're my close friends. Big things are coming their way...big things. As for me, I went to my first hockey game yesterday. Marlies vs. Senators (American team), the game was uneventful but the atmosphere and the experience was so worth it. I should go to more of these games, not just hockey, and I want to go with my friends this time. The day before yesterday, 9 of us went to an escape room (except vinit and dharmik...smh). It was STUPID FUN and I wish to go again. I absolutely loved how we problem solved our way through the rooms and we were so close to getting out. In fact, we were one friking number off from getting out. Yeah. ",
+      "blogTitle" : "A Week of Fun! ",
+      "comments" : {
+        "comment1" : "00",
+        "comment2" : "98",
+        "comment3" : "``",
+        "comment4" : "44",
+        "comment5" : "WHOS THE 9 OF YOU THAT WENT HUH?!?!"
+      }
+    },
+    "blog13" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 4,
+      "blogDate" : "21-02-2017",
+      "blogString" : "Do the photos work in the vlog upload section?",
+      "blogTitle" : "Photos work?",
+      "comments" : {
+        "comment1" : "",
+        "comment2" : "They do!",
+        "comment3" : "",
+        "comment4" : ""
+      }
+    },
+    "blog14" : {
+      "blogAuthor" : "Vinit",
+      "blogCommentAmount" : 11,
+      "blogDate" : "21-02-2017",
+      "blogString" : "Vinit will be posting!",
+      "blogTitle" : "I think they do Dharmik!",
+      "comments" : {
+        "comment1" : "Yeah, I know, he must start soon.",
+        "comment10" : "I dont think its fix",
+        "comment11" : "",
+        "comment2" : "OLA, in the woods.\n",
+        "comment3" : "value here",
+        "comment4" : "This is another posting of a comment.",
+        "comment5" : "wait why is it happening like this?",
+        "comment6" : "Okay, is it fixed?",
+        "comment7" : "",
+        "comment8" : "wait now?",
+        "comment9" : "and now?"
+      }
+    },
+    "blog15" : {
+      "blogAuthor" : "Vinit",
+      "blogCommentAmount" : 7,
+      "blogDate" : "22-02-2017",
+      "blogString" : "Alright, I don't know why, but I'm awake right now, and it's 4:53AM in the morning. I don't know, maybe my sleep schedule is messed up, or I can't sleep anymore or whatever, but I'm finding it hard to sleep right now. I'm actually really excited tomorrow, err... today, because I'm going to finally meet my friends! We've planned this great trip to Downtown where we'll play pool and roam around DT and stuff. Let's see how that goes. Other than that, umm... I'm also going to Woburn today to meet teachers and of course, collect my diploma 😅 Yeah.. silly me... forgot to get my OSSD because I missed commencement... hopefully they'll give it to me today. But yeah, that's my plan for today, see ya later, and seize the day! 😃",
+      "blogTitle" : "Reasonful Lack of Sleep"
+    },
+    "blog16" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 5,
+      "blogDate" : "22-02-2017",
+      "blogString" : "First of all, let me just say that today was a really, really, really fun day. It started off normal, meeting the teachers and talking regularly, and all this time, Vinit had made a friendly bet to my that I WOULD talk to Sakshi , and if I did, I'd owe him 5$. As you all know the incident that came up about a month ago, I decided to not talk to her the entire time. Basically from the bus stop, Mirza this dumass, boards a bus that is almost full, and doesn't even wait to see if anyone else did! He's the only one, and the rest of us have to wait for the next one haha. But then we arrived at downtown around an hour later, and we still didn't talk or anything. Fast-forward some sightseeing, and pictures, we went to eat at this bar/grill place, and it looked amazing. There she sat right in front of me and so the conversation had to start. She said something and I replied, and I realized there that my bet had been lost haha. But anyways, she was on snapchat, and then I asked her \"how come you haven't snapped in a while\", and she said \"I wonder why\" in the most mad way you could think of. That's it! The opportunity to discuss everything had arised. We were so loud, but I didn't care. All I cared about was getting the message across and same to her. Vinit, Mirza and Haasher tried to interrupt, dumasses. But anything, the root of the argument was said she said that \"calling something not pure because they drink is wrong\". My argument was that \"I didn't use the word pure in that way, and that I meant no offense whatsoever\". From then the conversation started, we sorted our differences, (screaming), and now we are friends. She apologized, I apologized, and now I am writing this blog. The lesson to be learned is that, never keep anything inside your heart like how I did, always let it go, confront the person, ask them the issue, never stay back. After that it was a really fun day, I talked to her like best friends, like old times again, and I'm glad we figured stuff out. TL:DR; \"If something bothers you, confront it, face it, and solve it. Don't stay back\".",
+      "blogTitle" : "Memorable day, both good and bad",
+      "comments" : {
+        "comment1" : "Wow Dharmik. That's is really brave of you to share this story with us considering that this blog is public. I also appreciate the moral that you shared with us. Thank you. :)",
+        "comment3" : "Does this say anything other then null??",
+        "comment4" : "Good for you Dharm1k",
+        "comment5" : "I'll add a feature so I can find out which bitch said that"
+      }
+    },
+    "blog17" : {
+      "blogAuthor" : "Vinit",
+      "blogCommentAmount" : 19,
+      "blogDate" : "23-02-2017",
+      "blogString" : "Hey guys! I'm so excited! it's like 16 deg Cel outside today... seems that the groundhog was right. Winter is going soon and Spring is here! I just can't wait to start going about around the city here and in Waterloo when I get back. I would like to talk about something really meaningful. I read somewhere that if your mood depends on the weather, then you're doing it wrong. I never found a way to be as enthusiastic as I become when I see hot weather approaching. If you find a solution to that, please share in the comments below, but it would be great if that were to happen. Sometimes I wish Canada was located a bit towards the south so we could always have the summer with us, but that's not how it is.. sucks. I'm so happy though! After our Downtown trip yesterday, I feel refreshed and ready to push through the semester. I'm going to go off studying again (just have one midterm left). Woot Woot ♫♫ what time is it> it's summer time ♫♫\nTL;DR Summer is coming soon! ",
+      "blogTitle" : "TFW Spring is here"
+    },
+    "blog2" : {
+      "blogAuthor" : "Dharmik",
+      "blogDate" : "11-02-2017",
+      "blogString" : "Today I had my ethics exam. I drank alot of water in my exam but I saw the guy beside me drinking it and I thought I could use some hydration. Turns out I drank a lot of water, and when I was on the bus, my bladder reached it's full point. I raced home, and without properly undressing, let the water loose in the toilet. I counted the glory. 61 seconds.",
+      "blogTitle" : "First Semester Finished"
+    },
+    "blog25" : {
+      "blogAuthor" : "Mirza",
+      "blogCommentAmount" : 4,
+      "blogDate" : "23-02-2017",
+      "blogString" : "Sucks how everything that I wanted to say is already posted by the other two nerds. Therefore, I don't have much to say. Yesterday was absolutely fantastic. The good thing about it was that even though nothing was fully planned, we managed to have so much fun. I mean, yes... we did argue about what to do after lunch for like a good half an hour and where to go and all that jazz but eventually we landed on skating and boiiii am I happy that it turned out that way. Skating gracefully in front of the huge TORONTO sign with my closest friends is a memory I will forever cherish. CRAZY thing was that I wasn't even sure if I knew how to skate but as soon as I landed on the ice... I knew I had it in me. Today's weather was absolutely gorgeous as pointed out by Vinit, and I didn't even go outside. Now the guilt is filling me up. Tomorrow for sure... I'll even charge up my camera and take some nice pictures while I'm out. Also, Mom and Aman are coming back in two days! CAN'T WAIT TO EAT REAL FOOD.",
+      "blogTitle" : "Spring is coming... Oh spring is coming... La La La",
+      "comments" : {
+        "comment1" : "How does it feel living off of garbage for a month, Mirza?",
+        "comment2" : "Lovely. ",
+        "comment3" : "Beautiful",
+        "comment4" : "Awesome"
+      }
+    },
+    "blog26" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 8,
+      "blogDate" : "24-02-2017 - 3:16 PM",
+      "blogString" : "I know certain people (ex, arjun), are of no help to anyone, since they too thug, but seriously guys help me with this. You meet someone after so long, you talk to them and it's like one of the best days of your life, your really having fun, but then when you get home, it's like nothing even happened. You messaged them, but their busy, they reply like hours later, and it makes me feel sad. You send snaps, they open but don't snap back. Even when active on messenger, they don't even click on the message, but the day before it's like a fantasy come true. This happens often, but right now since it's first year, I thought I'd ask for your opinions. Why does this happen? Why, one day, it's the best day of your life, and the next, it's like nothing ever happened? Why? Does it even matter if I message or not? Seems like interactions only matter when it's in real life. Honestly messenger is not even needed anymore. Neither is facebook. Usually people don't talk IRL but blab so much in FB, here it's the opposite. Why. What do I do. Please comment below. And actually help. This will be a great way to test this website.",
+      "blogTitle" : "What do I do",
+      "comments" : {
+        "comment1" : "If it's a girl, she most probably was entertaining you for the time you were together and is not interested in continuing the relationship as friends or anything more. As most girls just think ",
+        "comment2" : "Guys just want their V, true or not. Sad, I know. And if it's a guy, he's a fgt. ",
+        "comment3" : "I don't think that makes  sense. Nobody wants the V, that's thug talk (Arjun). No but seriously, do friends only exist when they are infront of your face? That's the question I'm asking\n-D",
+        "comment4" : "Nuh uh, if she doesn't reply to your texts or snaps, then she is probably not interested in investing time talking to you. That's something you gotta figure out by talking to her. ",
+        "comment5" : "Then why in real life?",
+        "comment6" : "The thing is, the way you're talking right now, and this blog suggests that the feelings you're feeling are one-sided feelings... You're believing the wrong idea. Realize the truth...",
+        "comment7" : "But what do I do? Like I try to resist talking, but in the end I loose the bet, and then it's all over. What the solution :/. - D",
+        "comment8" : "Just think about it all one night, maybe before you go to sleep. Think about if it's really worth the wait... worth the constant attempts. You have to convince yourself that its just not meant to be"
+      }
+    },
+    "blog27" : {
+      "blogAuthor" : "Vinit",
+      "blogCommentAmount" : 5,
+      "blogDate" : "24-02-2017 - 6:05 PM",
+      "blogString" : "You may have heard of the popular series, Stranger Things. In the deep corner of my quiet room, I was chatting with my friends late into the night on Messenger. Maybe it was just the thought of the red, starry night in my head, or maybe the darkness of my room, but something didn't feel right. I used all my courage to avoid all these feelings and went on ahead to shut my eyes and go to sleep. All of a sudden, I heard something... I woke up... it felt like, like a painful cry. I quickly became \"conscious,\" and looked around. Nothing... it was all quiet. I convinced myself it was the horn of a passing by train. That's when it happened. Throughout the whole night, I was dreaming about preparing for the Demogorgon. It was coming. I was in a strange room. I had a few friends beside me. I don't know who, but there were faces. throughout the whole dream, I was equipped with some kind of a spray and a lighter. The horror was, after a few moments, it struck. After waking up with a peculiar vertigo, all I could recall was me trying to spray fire into the teethy, opened mouth of the filthy monster before it grabbed me. Although I survived the night, I can only imagine what it must be like to be a part of the Hawkins community in the TV Show Stranger Things...",
+      "blogTitle" : "The Demogorgon and a Painful Cry",
+      "comments" : {
+        "comment1" : "This story makes no sense because of this line. 'I convinced myself it was the horn of a passing by train'. You don't even live near a train station.",
+        "comment2" : "What bullshit. Vinit, you tell me not to post useless blogs. But atleast my blogs are true!",
+        "comment3" : "Sorry. When you learn to delete comments delete this one too.",
+        "comment4" : "commented\n",
+        "comment5" : ""
+      }
+    },
+    "blog28" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 0,
+      "blogDate" : "24-02-2017 - 6:30 PM",
+      "blogString" : "So you know how people say that \"you cannot read in dreams\", or \"letters are rearranged in dreams\"? Well that's complete bullshit. Today I had a dream that we were going skating (all of us, like yesterday). Only this time, I decided to rent my own skates. So I go up to the guy, and ask him for size 8, because I want them to be tight. The guy looks at me, and turns his eyes to the top right. At first I have no idea why he did that, so I look at him confused, but then he does it again, and this time I notice it. To the left of the rental place, there was a sign that said \"No size 7, No size 8\", and then I understood it, and then the dream ended! Weird dream right? Yeah, but still, this just proves that you can read in dreams. Cause I even remember it now. You can read people, don't let anyone tell you otherwise!",
+      "blogTitle" : "You can read in dreams!"
+    },
+    "blog29" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 0,
+      "blogDate" : "25-02-2017 - 11:32 PM",
+      "blogString" : "Remember those days when we used to go on, \"yahoo answers\", ask questions about math, science, and get answers and we thought it was absolutely great? Now that were older, and I specifically aim this towards Vinit, we discovered stackoverflow. We always knew about it in highschool, but after you create an account, and find those willing to help you, you realize it's true potential. Honestly it has helped me across math, computer science, and is just the best. Long live.",
+      "blogTitle" : "The essence of Stackoverflow"
+    },
+    "blog3" : {
+      "blogAuthor" : "Mirza",
+      "blogDate" : "12-02-2017",
+      "blogString" : "Today was a crazy productive day. It just so happens that on my first day of blogging I work non-stop. While it does make a good first impression, I am usually NEVER like this. For instance, I cleaned out my desk today. Pretty normal stuff right? WRONG. The last time I cleaned out my desk was over 6 months ago! Yeah, so today was a miracle. I got so caught up in my flow of productivity that I decided to clean the entire house, throw out the trash and go shopping for essentials. Pretty normal stuff for an average functioning teenager; but for me... it's like I changed into a whole new person. I should mention that my parents and my lil' bro are abroad. Thus, making this accomplishment an unimaginable feat. While clearing out my horrendous desk, I got to some precious memories of the past...mainly from my classes in high school. A skit I did in grade 11 English class, my humungous binder from Fin. Sec, some scripts I wrote to pass time... I put them all in my stash of precious memories. Overall, I am proud of myself for the stuff I did today and I am proud of Dharmik for coming up with such a great initiative and for working on the HTML. That's it for me today!",
+      "blogTitle" : "A Very Productive Day"
+    },
+    "blog30" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 1,
+      "blogDate" : "27-02-2017 - 3:14 PM",
+      "blogString" : "Honestly this is one of the greatest anime's ever. It's only 12 episodes (the first season), but it's awesome. Despite being a sports anime, there is no major bs, yet it still manages to hit you in the feels. What a time to be alive.",
+      "blogTitle" : "Yuri!!! on Ice",
+      "comments" : {
+        "comment1" : {
+          "commentValue" : "I would watch it, but I'm finishing The Devil is a Part-Timer right now. It's a chill animé. Try it, you might like it.",
+          "commenter" : "Vinit Soni",
+          "dateOf" : "March 2, 2017"
+        }
+      }
+    },
+    "blog31" : {
+      "blogAuthor" : "Mirza",
+      "blogCommentAmount" : 5,
+      "blogDate" : "27-02-2017 - 5:07 PM",
+      "blogString" : "OK! It's been a long time since I blogged last, completely my fault. No reason really, just me being lazy. So yeah, I know the title seems weird but let me explain. You see, my dad, last year took with him my sweater to India and never returned with it. It was an Hilfiger sweater and it completely suits me and I loved it and cared for it... so I was heartbroken when he came empty handed a month later. Fast forward to 2 days ago when my mom returned from her month-long journey, there it was in all its glory: my blue beautiful sweater. When I inquired about it to my mother, she said she found it in my grandpa's wardrobe, lost... never expecting to be found again. It was like Christmas I tell ya. Anyways, we found a cockroach in my sweater which is what all this backstory was leading up to, and it made me think. Looking at the cockroach, it was obvious that the little bugger was from my native land and probably just traveled 13,464 km on an airplane, passed security, and probably had a wonderful time cozying up in my sweater. I tried to imagine its journey and smiled at the thought as I murdered the poor bastard with soap water (very efficient against Canadian cockroaches but not as much against Indian ones). How did I know it was from Kerala and not from my own apartment? Well, you should have seen it, it was HUGE compared to the tiny buggers that live here. Also, ECON IS COOL. I didn't think it was cool in the last three weeks when I sat in those boring three hour lectures, but now that I have YouTubed the subject and watched several CrashCourse videos: I can't believe how fascinating it is. All about people and choices if you were wondering. ",
+      "blogTitle" : "ECON IS COOL! ALSO COCKROACHES ARE ADVENTUROUS!",
+      "comments" : {
+        "comment1" : {
+          "commentValue" : "Yo Mirza, lol you have to tell me how your blogs are so friken adventurous and amazing. Like every time I'm reading them I feel like I'm in some overly produced Oscar movie. No, that's a good thing.:)",
+          "commenter" : "Vinit Soni",
+          "dateOf" : "March 2, 2017"
+        },
+        "comment2" : {
+          "commentValue" : "THANK YOU! We both share a love for adventures in our story! :)",
+          "commenter" : "Mirza Abubacker",
+          "dateOf" : "March 3, 2017"
+        },
+        "comment3" : {
+          "commentValue" : "Omg why are the comments coming three times",
+          "commenter" : "ntu94259@psoxs.com",
+          "dateOf" : "March 4, 2017 -- 12:22 AM"
+        },
+        "comment4" : {
+          "commentValue" : "Remember that time you ate a cockroach Mirza",
+          "commenter" : "ntu94259@psoxs.com",
+          "dateOf" : "March 4, 2017 -- 12:23 AM"
+        },
+        "comment5" : {
+          "commentValue" : "interesting \n",
+          "commenter" : "Nilay Raval",
+          "dateOf" : "March 17, 2017 - 3:31 PM"
+        }
+      }
+    },
+    "blog32" : {
+      "blogAuthor" : "Arjun",
+      "blogCommentAmount" : 1,
+      "blogDate" : "28-02-2017 - 10:19 PM",
+      "blogString" : "So I was just scrolling the Facebook as you do. And I saw on the update feed, Kapilan commented on a video, I was intrigued for some reason and clicked on it. Turns out it was another Tai Lopez wannabee trying to scam people, even my friend Kapilan. Can you believe it? Such a smart guy falling for such a dumb scam. So I proceed to tag Mirza and ask him \"do you know what this guy likes more than his car?\" in reference to the famous Tai Lopez video. You should look the guy up in general, the way he scams people is hilarious and h3h3 roasts him so bad. Anyway, before Mirza replies the guy himself, Cole whatever replies with the answer \"Knowledge\". Causing us to burst out in laughter, I was literally dying and almost choked on my food. So since I messaged on his video he sent me the link to his scam. As the curious guy, I am I created a 10-minute mail account to give him an email to check out his scam. Turns out he just promises you riches and takes your money to send you the \"magic method\". Shocking millions fall for it. Idiots. So I now know how Tai Lopez makes money, so fascinating how you can exploit people who just wanna get rich quick. The only way, is the proper way. So I'll just be here disregarding females and acquiring currency. ",
+      "blogTitle" : "Knowledge.",
+      "comments" : {
+        "comment1" : {
+          "commentValue" : "Kapi is a dunka dunka",
+          "commenter" : "Mirza Abubacker",
+          "dateOf" : "March 3, 2017"
+        }
+      }
+    },
+    "blog33" : {
+      "blogAuthor" : "Mirza",
+      "blogCommentAmount" : 2,
+      "blogDate" : "March 16, 2017 -- 4:07 PM",
+      "blogString" : "WHY HAVEN'T I DONE ONE IN SO LONG? Well, why haven't the others? Maybe because we're all busy with work again or maybe (most probably this) because it takes considerable effort to actually blog. In any case, I have nothing in my mind right now as to what to write but I guess i'll just type out whatever comes to my mind first (at least it's better than doing nothing at all *cough*). I had to do a lot of school shit this week and surprisingly, for the second time in my life ever, I didn't procrastinate. The first time was in grade 12 when working on our final English essay. Nevertheless, I feel proud of myself to stir up the motivation and get shit done on time. Oh I do want to talk about something I read online somewhere and it's this: \"Discipline over motivation when you want to get shit done\". I mean, at first glance I didn't completely agree but with enough time to think about it; I came to the conclusion that it might be actually true. I need to steer towards this way of life and obtain an ample amount of discipline and see where that gets me. ",
+      "blogTitle" : "Not much to say...",
+      "comments" : {
+        "comment1" : {
+          "commentValue" : "WOW it shows the time this was posted! SO COOL",
+          "commenter" : "Mirza Abubacker",
+          "dateOf" : "March 16, 2017 - 4:12 PM"
+        },
+        "comment2" : {
+          "commentValue" : "cool guys dont look at explosions.  \n",
+          "commenter" : "Nilay Raval",
+          "dateOf" : "March 17, 2017 - 3:30 PM"
+        }
+      }
+    },
+    "blog4" : {
+      "blogAuthor" : "Dharmik",
+      "blogDate" : "13-02-2017",
+      "blogString" : "Indian idol is a show I watch dearly, because singing has always been my passion (Waving flag, except for that member, not naming names here but you know who I mean). Basically this time it was going to be an elimination. The guy that got eliminated today sang the best today, but sang not the best last week. Since the eliminations are based off of last week, he unforuntately did not go through to the top 8. What's sad is that in the song that he sang today, he was singing and went to the singers table where are the singers sit, and while singing, bent down on one knee, and took this girls arm, and started dancing with her. He liked this girl. The girl liked him. The girl's name is Maalvika and the guys name is Hardeep. The girl is a beauty. From maybe the second week everyone could tell that they were a couple, and that they really loved eachother, just from this show. Even when the judges are giving their comments, they give it, and then Hardeep always looks at Maalvika, and she just smiles. All of India knows their love right now, even though it just started through Indian Idol. When the eliminations came, Maalvika and 3 others were already safe, and then 2 more got safe. That lead to the bottom 3, as they call it, with Hardeep, Tajinder (Arjun's cousin), and a girl. When Karan Wahi announced who was safe, it was the girl. The girl who came in as a WILDCARD, even though she was eliminated just 3 weeks ago. Everyone was shocked, but obviously you can't show that. Even the judges were. Then came the moment of truth Tajinder was announced safe, and then the camera angle switches directly to Maalvika. I couldn't help feelings so sad. Not because he lost, but become two lovers were seperated. After Hardeep says thanks and all, Maalvika is the first one that comes to hug him, and all you see is tears running down her face. Then Indian Idol shows us photos of them, and all the times they had together, just them, and then the show ends. It's actually really sad. She has to go on knowing that her love didn't make it ahead. I wish they bring him back. All of India does. She girl should've got out. She's only in cause she's the most beautiful girl you've seen (that's why they even brought her back in wildcard I bet). By the way, Maalvika is south Indian like Mirza.",
+      "blogTitle" : "Indian Idol Disaster"
+    },
+    "blog5" : {
+      "blogAuthor" : "Mirza",
+      "blogDate" : "14-02-2017",
+      "blogString" : "Well, I got up and immediately continued watching Narcos. Having started it yesterday, I found it greatly interesting and wasted no time in catching up. The reason why I titled this blog The Calm After The Storm is because compared to yesterday’s high energy and resourceful work, today was just a lazy mofo’s average day. Wish I had done something more productive. Tomorrow I plan to read more, play the guitar more and revise my notes. Let’s wish I don’t turn back on my words.",
+      "blogTitle" : "The Calm After the Storm"
+    },
+    "blog6" : {
+      "blogAuthor" : "Dharmik",
+      "blogDate" : "14-02-2017",
+      "blogString" : "Today around 9:30 AM, I went downstairs and met Jainam, he was just leaving. We were walking in the slow and I asked him, \"how'd exams go\". He's like, \"let me tell you the shit that happened\". Here is how it goes. Don't read ahead or you won't get the laugh. Read word for word. He had an exam last week, and that week it was super super snowy, icy, the snow was very deep, it was very cold and muddy. It was basically a horrible day to have an exam on. His exam started at 2:30 PM, but he had to leave around 10 AM since York is far. He told me how he usually goes from here to STC, then takes the 199, or some bus like that, and then proceeds his journey from there. That day, look at this man's luck. He went to STC which took way longer then expected. The 199 didn't come. He waited for 20 minutes and just when he was about to take another route, the 199 came. Thank god, right? He went on the 199, and it took him to York, a total trip of 2h he said, and he was exhausted. He reached York about just on time, around 1:45 pm. After all that snow, all that wasted time, he finally made it to school. He entered the school, and his phone vibrated cause of internet, and he opened his phone, and here's what it said. \"Exam is canceled due to bad weather. - Prof {}\"",
+      "blogTitle" : "The Rage of York"
+    },
+    "blog7" : {
+      "blogAuthor" : "Dharmik",
+      "blogCommentAmount" : 6,
+      "blogDate" : "15-02-2017",
+      "blogString" : "Today in my linear algebra class, I went to go sit where Vishwa was sitting since he always comes before me. This time however, when I was about to take a seat beside him, I looked at him and saw something peciular. Vishwa dawg was wearing earphones and listening to a song! As anyone might do, I decided to stop exactly where I was, not make eye contact with him, take out my phone, and sneak in a photo. Obviously he saw this (as I wanted him to), but what he did next shocked me. As I sat next beside him, he took his phone, started dialing my number. He said delete it right now or I call home and tell on you. I kid you not, he was so serious. He said \"majhak bahu tayu, abhiyaal delete kar keh gare phone karis tara\", meaning, enough is enough, delete it right now or I call home. What I found so shocking was that, even when we piss eachother off to the extreme, we go into our one \"modes\", we don't talk to one other, we don't look eachother in the eye, but never, ever, do we go to the level of snitching on someone like that, because we've had \"enough\". I was deeply hurt by this, and I moved to another row, and came right to the computer lab to right about this. It really makes me feel weird. I tease him, he teases me, I call him desi, cheap, he does all this shit to me too. But I never all call him, and with the serious attitude he was in, I could tell he was really going to do it. He told me to delete it, and so being Dharmik, obviously I upload to Google Photo's and then delete it, but it's safe and sound with me right now. What a guy. Couldn't take the heat so decided to complain to the police. Real friends these guys are.",
+      "blogTitle" : "Real Friends"
+    },
+    "blog8" : {
+      "blogAuthor" : "Mirza",
+      "blogCommentAmount" : 6,
+      "blogDate" : "16-02-2017",
+      "blogString" : "This happened last week. You see, my schedule is a wonderful one where I have two days off in a week but that means I have to suffer through three days of packed classes. Three of the five classes being three straight hours of boring, old lectures. I can’t complain though because four days off is too sweet to even frown upon. On Wednesday, I have an 8:00 am class that lasts three hours. Last week I had a very important test for this class and getting there on time was of top priority. Since it’s a one hour commute, I have to wake up at 5:30 am to have enough time to get ready and leave the house. On the night of the previous day, I didn’t take this matter very seriously. I set one alarm for 5:30 and went to bed at 11:30 pm. Notice how I said “went to bed” and not “drift off to sleep”. I lay in bed for about an hour or so before I actually started to sleep. Sound the sirens because this is where everything’s going downhill! Having the full intention of waking up at 5:30 am, I actually did wake up at that time…only to turn off the alarm for good. BIG MISTAKE. I later woke up to a strange feeling in my gut and almost as quickly panic set in. I looked at my watch - 7:02 am. Boom. Game over. Tears, anger, grabbing my hair, shouting. I was strange in those few moments where I learned I was totally and absolutely f***ed. Long story short, I made it in time.",
+      "blogTitle" : "Why I Will Never Not Wake Up to An Alarm Again",
+      "comments" : {
+        "comment1" : "Bomb yourself",
+        "comment2" : "62+",
+        "comment3" : "6",
+        "comment4" : "689789",
+        "comment5" : "6897894165",
+        "comment6" : "02603"
+      }
+    },
+    "blog9" : {
+      "blogAuthor" : "Vinit",
+      "blogCommentAmount" : 2,
+      "blogDate" : "20-02-2017",
+      "blogString" : "I know, I know, this is the first time you've seen me post. My other fellow bloggers urged me to post, but I was working on a small feature for this blogging website. Yeah, that's right, we now have backend storage functionality because of moi! All of the stuff is stored somewhere underwater in the tropics of Cuba... I'm joking I'm joking. But actually, it's a pretty big deal because now, we're able to post online as much as we want without manually updating the main webpage. I think that this alone is enough evidence that I'm really interested in this blogging website. Honestly speaking, I have two promises to keep, or you could say that I'm making two goals here, right now. First one is, I'm going to definitely increase my blogging frequency. I've been slacking, so this is a definite promise. Another one is, we're going to definitely try to add more cool features so we could make the website better and cooler! :D So I hope to see you guys soon with a taste of my life in the near future. Cheers!",
+      "blogTitle" : "Hey, it's me Vinit!",
+      "comments" : {
+        "comment1" : "ASD",
+        "comment2" : "dfg"
+      }
+    }
+  },
+  "check-data" : 123
+}
