@@ -12,11 +12,12 @@ class BlogController < ApplicationController
 	end
 
 	def add_post(author, title, content, number)
-		new_post = Post.new(:title => title,
-							 :author => author,
-							  :description => content,
-							   :blog_number => number)
-		new_post.save
+		# new_post = Post.new(:title => title,
+		# 					 :author => author,
+		# 					  :description => content,
+		# 					   :blog_number => number)
+		# new_post.save
+		
 	end
 
 	helper_method :add_post
